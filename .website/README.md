@@ -1,4 +1,7 @@
 ---
+genres:
+  - sports
+  - casual
 directors_cut: https://xem.github.io/funambule/
 video: https://youtu.be/3eQWYel2_k4
 post: https://xem.github.io/articles/js13k18.html
